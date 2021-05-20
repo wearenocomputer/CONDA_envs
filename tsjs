@@ -1,0 +1,19 @@
+name: tsjs
+dependencies:
+  - python==3.6.2
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn==7.1.4
+  - cudatoolkit==9.0
+  - pip:
+    - tensorflow-gpu==1.10
+    - opencv-python==4.1.1.26
+    - keras==2.2.0
+    - tensorflowjs
+    - lxml
+    - tqdm
+    - seaborna
+    - pillow
+    - jupyter
+    - numpy
