@@ -1,4 +1,4 @@
-A collection of Anaconda env files
+A collection of Anaconda environment files
 
 FWS - https://github.com/shaoanlu/fewshot-face-translation-GAN
 
