@@ -1,5 +1,10 @@
 A collection of Anaconda environment files
 
+
+conda env create -f environment.yml
+
+
+
 FWS - https://github.com/shaoanlu/fewshot-face-translation-GAN
 
 TSJS - for working with older versions of tensorflowjs
