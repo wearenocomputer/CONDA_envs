@@ -9,6 +9,9 @@ FWS - https://github.com/shaoanlu/fewshot-face-translation-GAN
 
 TSJS - for working with older versions of tensorflowjs
 
+Keras Retinanet - https://github.com/fizyr/keras-retinanet
+
+
 https://towardsdatascience.com/managing-cuda-dependencies-with-conda-89c5d817e7e1
 
 https://stackoverflow.com/questions/62690377/tensorflow-compatibility-with-keras
