@@ -1,0 +1,21 @@
+name: keras_retinanet
+
+dependencies:
+  - python==3.7
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit==10.1.243
+  - pip:
+    - tensorflow-gpu==2.3.0
+    - opencv-python==4.1.1.26
+    - keras==2.4.0
+    - lxml
+    - tqdm
+    - seaborn
+    - pillow
+    - jupyter
+    - numpy 
+    - pygame
+    - pyopengl
